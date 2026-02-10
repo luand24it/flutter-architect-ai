@@ -1,0 +1,5 @@
+{
+  "name": "FlutterGen AI",
+  "description": "A specialized AI tool that acts as a Senior Flutter Developer to generate production-ready, Material 3 Flutter code based on your descriptions.",
+  "requestFramePermissions": []
+}
